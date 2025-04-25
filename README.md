@@ -8,7 +8,7 @@ A lightweight Android news reader built with Jetpack Compose, Retrofit and Coil.
 
 ### Prerequisites
 
-- **Android Studio** Arctic Fox (2020.3.1) or newer  
+- **Android Studio** Meerkat (2024.3.1) or newer/latest  
 - **Android SDK**: Compile & target SDK 35  
 - **JDK**: Java 11  
 
